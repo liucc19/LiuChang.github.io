@@ -12,12 +12,12 @@
          </span>
          ·
          <span>
-             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
+             
              <a href="https://github.com/mqxu">我的Github</a>
          </span>
          ·
          <span>
-             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
+             
              <a href="https://mqxu.github.io/blog.github.io/">我的博客</a>
          </span>
      </div>
@@ -26,8 +26,8 @@
 
  ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - Java 工程师
- - 工作经验：21年
+ - 学生
+ - xxx大学
 
 
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/graduation-cap-solid.svg" width="30px"> 教育经历
